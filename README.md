@@ -1,6 +1,9 @@
-/RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
-Data: 29/10/2023 
+RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+
+Data: 29/10/2023
+
 Empresa: Abstergo Industries 
+
 Responsável: Arnom Leonam Pedreira Lopes
 
 Introdução:
